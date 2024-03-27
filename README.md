@@ -1,5 +1,4 @@
-# Control System for Mobile Aquaculture Cages 
-<a name="readme-top"></a>
+# Control System for Mobile Aquaculture Cages <a name="readme-top"></a>
 
 ![alt text](Images/AutonomousCageGNC_thesis_ss.JPG)
 
